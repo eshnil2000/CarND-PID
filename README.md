@@ -2,7 +2,8 @@
 Self-Driving Car Engineer Nanodegree Program
 
 ## Results
-![PID Video](https://youtu.be/5M15KDOCLRI)
+
+[![Project Video]](https://youtu.be/5M15KDOCLRI "project video")
 
 The CTE error stabilized after several laps around the track:
 ```
